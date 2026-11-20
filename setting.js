@@ -43,17 +43,17 @@
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 */
 
-global.botName = 'Rubby Multi Device'
-global.owner = ['628xxxxxxxxxx'] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
+global.botName = 'Sithuwa Multi Device'
+global.owner = ['94762108015'] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
 global.mode = 'public' // 'public' atau 'self'
-global.noBot = '628xxxxxxxxxx' // Nomor WhatsApp bot untuk pairing code
+global.noBot = '94762108015' // Nomor WhatsApp bot untuk pairing code
 global.customPairingCode = 'RUBBYMD1'
-global.botVersion = '1.5.0'
-global.botCreator = 'Kyuu'
-global.packname = 'Rubby Multi Device'
-global.author = 'Kyuu'
-global.thumb = 'media/thumb.jpg'
-global.website = 'https://api.kyzzz.xyz'
+global.botVersion = '1.0.0'
+global.botCreator = 'ꜱɪᴛʜᴜᴡᴀ'
+global.packname = 'Sithuwa Multi Device'
+global.author = 'ꜱɪᴛʜᴜᴡᴀ'
+global.thumb = 'https://file.dnuz.top/76ijio.jpg'
+global.website = 'ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ'
 
 global.mess = {
   wait: '⏳ Sedang diproses...',
@@ -65,7 +65,7 @@ global.APIs = {
 }
 
 global.APIKeys = {
-  'https://api.kyzzz.xyz': 'YOUR-APIKEY' // Daftar dan dapatkan apikey gratis di https://api.kyzzz.xyz
+  'https://api.kyzzz.xyz': 'kyzz16413255009874' // Daftar dan dapatkan apikey gratis di https://api.kyzzz.xyz
 }
 
 global.API = (name, path = '/', query = {}, apikeyqueryname) => {
