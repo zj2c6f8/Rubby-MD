@@ -1,7 +1,7 @@
 {
-  "name": "rubby-multi-device",
-  "version": "1.5.0",
-  "description": "Rubby Multi Device - Base WhatsApp Bot with ESM and ruby-baileys",
+  "name": "sithuwamd-multi-device",
+  "version": "1.0.0",
+  "description": "sithuwa Multi Device - Base WhatsApp Bot with ESM and ruby-baileys",
   "main": "main.js",
   "type": "module",
   "scripts": {
