@@ -56,8 +56,8 @@ global.thumb = 'https://file.dnuz.top/76ijio.jpg'
 global.website = 'ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ'
 
 global.mess = {
-  wait: '⏳ Sedang diproses...',
-  error: '❌ Terjadi kesalahan!'
+    wait: '⏳ Please wait...',
+    error: '❌ An error occurred!'
 }
 
 global.APIs = {
@@ -90,7 +90,7 @@ global.settings = {
   limit: {
     enabled: true,
     dailyBonus: 15,
-    dailyResetTimezone: 'Asia/Jakarta',
+    dailyResetTimezone: 'Asia/Colombo',
     maxFreeLimit: 100
   },
   economy: {
